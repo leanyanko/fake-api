@@ -1,5 +1,5 @@
  {
- 	"products": [{
+ 	"products": {{
  			"name": "Product1",
  			"description": "Science means constantly walking a tightrope between blind faith and curiosity; between expertise and creativity; between bias and openness; between experience and epiphany; between ambition and passion; and between arrogance and conviction - in short, between an old today and a new tomorrow.",
  			"img": "https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/dd.jpg"
@@ -34,5 +34,5 @@
  			"description": "Science is beautiful when it makes simple explanations of phenomena or connections between different observations. Examples include the double helix in biology and the fundamental equations of physics.",
  			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIfKYDtVis-CWBO_8C3Hl_cccJ3n2EaMt10PNK5Qbifumg42q2Q"
  		}
- 	]
+}
  }
