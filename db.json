@@ -1,24 +1,31 @@
  {
  	"products": [{
- 			"name": "Product1"
+ 			"name": "Product1",
+ 			"img": "https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/dd.jpg"
  		},
  		{
- 			"name": "Product2"
+ 			"name": "Product2",
+ 			"img": "https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/The-Inspiration-Imperative-Finding-Your-Recipe-to-Inspire-the-World.jpg"
  		},
  		{
- 			"name": "Product3"
+ 			"name": "Product3",
+ 			"img": "https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/5-Things-You-Must-Do-When-You-Lack-Inspiration.jpg"
  		},
  		{
- 			"name": "Product4"
+ 			"name": "Product4",
+ 			"img": "https://naqyr37xcg93tizq734pqsx1-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/10-Ways-to-Overcome-an-Unhealthy-Pursuit-of-Praise-to-Be-Your-Own-Inspiration.jpg"
  		},
  		{
- 			"name": "Product5"
+ 			"name": "Product5",
+ 			"img": "https://cdn-images-1.medium.com/max/1200/1*B8byd1TrvioF5IDq4tHJWw.jpeg"
  		},
  		{
- 			"name": "Product6"
+ 			"name": "Product6",
+ 			"img": "http://finallywin.com/wp-content/uploads/2019/03/A-Step-by-Step-Process-That-Will-Help-You-Make-the-Impossible-Possible.jpg"
  		},
  		{
- 			"name": "Product7"
+ 			"name": "Product7",
+ 			"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIfKYDtVis-CWBO_8C3Hl_cccJ3n2EaMt10PNK5Qbifumg42q2Q"
  		}
  	]
  }
